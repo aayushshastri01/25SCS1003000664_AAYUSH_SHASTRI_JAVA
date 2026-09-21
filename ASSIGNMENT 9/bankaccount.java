@@ -17,7 +17,7 @@ public class Main {
         BankAccount account1 = new BankAccount();
 
         account1.accountNumber = 659;
-        account1.accountHolderName = "kushagra";
+        account1.accountHolderName = "aayush";
         account1.balance = 99999;
 
         account1.display();
