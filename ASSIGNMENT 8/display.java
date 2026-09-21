@@ -23,10 +23,10 @@ public class Main {
 
         System.out.println();
 
-        obj.show("Kushagra", 22);
+        obj.show("aayush", 22);
 
         System.out.println();
 
-        obj.show("Kushagra", 22, 87.5);
+        obj.show("aayush", 22, 87.5);
     }
 }
