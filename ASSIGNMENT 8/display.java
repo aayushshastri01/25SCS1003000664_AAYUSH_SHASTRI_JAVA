@@ -19,7 +19,7 @@ public class Main {
     public static void main(String[] args) {
         Display obj = new Display();
 
-        obj.show("Kushagra");
+        obj.show("aayush");
 
         System.out.println();
 
